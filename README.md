@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axolot06
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++, html, css
+- 🌱 I’m currently learning c++, html, css, js and python
 - 💞️ I’m looking to collaborate on the Orcaful project
 - 📫 How to reach me discord: Axolotl#1103
 
